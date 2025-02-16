@@ -68,6 +68,8 @@ And for the HTML All you really need is this:
 <!-- Simply add more selectors and corresponding 
 tab content for each selector -->
 ```
+## Output
+![image](https://github.com/user-attachments/assets/a6f343f6-4f31-41eb-bff5-66563dbbdac2)
 
 > Also (Just a thought), You could advance this by adding some animations to the selector borders etc.
 

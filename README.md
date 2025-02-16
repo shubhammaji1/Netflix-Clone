@@ -1,6 +1,6 @@
 # Netflix Clone
 
-Clone of the Netflix website - [Take a look](https://bankole2000.github.io/netflix)
+Clone of the Netflix website - [Take a look]([https://bankole2000.github.io/netflix](https://netflix-clone-6yng.vercel.app/))
 
 
 
